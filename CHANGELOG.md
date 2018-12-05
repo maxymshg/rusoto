@@ -8,6 +8,30 @@
 - Add MediaTailor support
 - Add ByteStream struct to core
 - Skip serializing blobs when they are `Option::None`
+- Add Kinesis Video Archived Media service
+- Update regex to version 1
+- Add Appsync service
+- Handle s3 out of order elements
+- Add mediaconvert service
+- Add KinesisVideo support
+- Add a filter that will limit what services to generate
+- Enable passthrough parsing of payload members
+- Add sagemaker-runtime
+- Fix some glacier bugs
+- Add CloudFront unit test
+- Add IoT Data service
+- Add MediaLive service
+- Add ResourceGroups service
+- Add Mobile service
+- Skip serializing blobs when they are Option::None (DynamoDB)
+- Fix import/export endpoint
+- Add MediaPackage service
+- Add IoT Jobs Data
+- Add Kinesis Video Media service
+- Add IoT Analytics
+- Add IoT 1click devices
+- Add Workmail service
+- Add IoT 1Click Projects
 
 ## [0.35.0] - 2018-10-31
 
